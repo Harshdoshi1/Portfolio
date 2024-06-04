@@ -4,5 +4,6 @@ html{
 }
 
 .harsh-img{
-    width: 30px;
+    max-width: 40rem;
+    
 }
